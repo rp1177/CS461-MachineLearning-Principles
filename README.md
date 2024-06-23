@@ -15,3 +15,10 @@ This repository showcases my learnings and projects for Machine Learning. The ma
 5. **Twitter Sentiment Analysis** (TwitterSentinment Analysis.ipynb): This project involves analyzing sentiments of tweets. Created using Google Colaboratory. (Updated 7 months ago)
 
 
+## Language used:
+
+Python
+
+## Libraries used:
+Sci-py, Numpy, Matplotlib
+
